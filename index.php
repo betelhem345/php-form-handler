@@ -78,8 +78,8 @@
         echo'
                     <form method="post" action="">
                     <div class="mb-3 mt-3">
-                    <label for="First Name">First Name:</label>
-                    <input type="First Name" class="form-control" id="First Name" placeholder="Enter first name" name="First Name">
+                    <label for="FirstName">First Name:</label>
+                    <input type="text" class="form-control" id="FirstName" placeholder="Enter first name" name="FirstName">
                     </div>
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </form>
