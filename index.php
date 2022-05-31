@@ -79,7 +79,7 @@
                     <form method="post" action="">
                     <div class="mb-3 mt-3">
                     <label for="First Name">First Name:</label>
-                    <input type="email" class="form-control" id="First Name" placeholder="Enter first name" name="First Name">
+                    <input type="First Name" class="form-control" id="First Name" placeholder="Enter first name" name="First Name">
                     </div>
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </form>
